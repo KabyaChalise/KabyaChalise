@@ -9,10 +9,9 @@
 <div align="center">
   
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <a href="https://flutter.dev">
-    <img src="https://avatars.githubusercontent.com/u/158131211?s=400&u=723ecd1c2ddad40a4f962950e9bb732e083dd954&v=4" alt="Your Image" />
-  </a>
+  <img src="https://raw.githubusercontent.com/KabyaChalise/KabyaChalise/main/image.gif" alt="KabyaChalise Image" />
 </div>
+
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=kabyachalise&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="kabyachalise" />
@@ -91,16 +90,11 @@
 </div>
 
 <br/>
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
-    <img alt="github-dash-light" src="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
-    <img alt="github-dash-dark" src="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
+    <img alt="github-dash" src="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
   </picture>
 </div>
+
