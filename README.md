@@ -74,7 +74,7 @@
 
 <div align="center">
   <!-- Add your social media links with badges -->
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/kabyachalise/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/your-twitter" target="_blank">
@@ -90,7 +90,7 @@
 </div>
 
 <br/>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
