@@ -94,7 +94,14 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
-    <img alt="github-dash" src="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
+    <img alt="github-dash-light" src="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
+    <img alt="github-dash-dark" src="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
   </picture>
 </div>
+
 
