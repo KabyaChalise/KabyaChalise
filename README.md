@@ -74,9 +74,10 @@
 
 <div align="center">
   <!-- Add your social media links with badges -->
-  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/kabyachalise/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<a href="https://www.linkedin.com/in/kabyachalise/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
   <a href="https://twitter.com/your-twitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
@@ -94,14 +95,9 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
-    <img alt="github-dash-light" src="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
-    <img alt="github-dash-dark" src="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
+    <img alt="github-dash" src="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
   </picture>
 </div>
+
 
 
