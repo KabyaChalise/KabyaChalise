@@ -74,26 +74,9 @@ Currently at **Matin Softech Pvt. Ltd.**, shipping apps across ride-sharing, e-c
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kabyachalise&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=6AD1E3&icon_color=1A56DB" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabyachalise&theme=tokyonight&hide_border=true&ring=1A56DB&fire=6AD1E3&currStreakLabel=6AD1E3" height="180" alt="Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabyachalise&theme=tokyonight&hide_border=true&layout=compact&title_color=6AD1E3" alt="Top Languages"/>
-</div>
-
----
-
 <div align="center">
 
 *Open to freelance projects and collaborations — especially civic tech, productivity tools, and anything that ships to real users.*
-
-<a href="https://www.buymeacoffee.com/kabyachalise">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy me a coffee"/>
-</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6AD1E3,100:1A56DB&height=80&section=footer" width="100%"/>
 
