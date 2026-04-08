@@ -1,103 +1,100 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD1E3&background=FF000000&center=true&vCenter=true&repeat=false&width=500&lines=Hi+👋+I'm+Kabya+Chalise" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">🚀 Flutter Developer from Nepal 🇳🇵</h3>
-
-<br/>
-
 <div align="center">
-  
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="https://raw.githubusercontent.com/KabyaChalise/KabyaChalise/main/image.gif" alt="KabyaChalise Image" />
-</div>
 
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=kabyachalise&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="kabyachalise" />
-    <a href="https://www.buymeacoffee.com/kabyachalise">
-      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-    </a>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A56DB,100:6AD1E3&height=110&section=header&animation=fadeIn" width="100%"/>
+
+# Kabya Chalise
+### Flutter Developer · Clean Architecture · Riverpod
+
+<p>
+  <a href="https://kabyachalise.com.np"><img src="https://img.shields.io/badge/Portfolio-kabyachalise.com.np-1A56DB?style=for-the-badge&logo=safari&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kabyachalise/"><img src="https://img.shields.io/badge/LinkedIn-kabyachalise-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kabyachalise123@gmail.com"><img src="https://img.shields.io/badge/Email-kabyachalise123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=kabyachalise&label=Profile+Views&color=1A56DB&style=flat-square" alt="profile views"/>
+
 </div>
 
 ---
 
-<h3 align="center">About Me 👨‍💻</h3>
+## About Me
+
+Flutter developer focused on building **production-grade mobile applications** that are clean, scalable, and maintainable. I architect apps using **Clean Architecture** with a data → domain → presentation separation, and manage state with **Riverpod** for predictable, testable code.
+
+Currently at **Matin Softech Pvt. Ltd.**, shipping apps across ride-sharing, e-commerce, and education — used by real people. Exploring **Flutter Web and Desktop** on the side.
+
+- 🇳🇵 Based in Biratnagar, Nepal
+- 🏗️ Obsessed with clean, layered architecture
+- 📦 Published apps on the Play Store
+- ☕ Powered by coffee
+
+---
+
+## Tech Stack
+
+**Core**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Architecture & State**
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1A56DB?style=flat-square&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-00BCD4?style=flat-square&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-7B61FF?style=flat-square&logoColor=white)
+
+**Backend & Services**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Integrations**
+
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Agora](https://img.shields.io/badge/Agora_Voice%2FVideo-009AFF?style=flat-square&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Maps_%26_Location-4285F4?style=flat-square&logo=google-maps&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Play Console](https://img.shields.io/badge/Play_Console-3DDC84?style=flat-square&logo=google-play&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## Selected Projects
+
+| App | Domain | Highlights |
+|-----|--------|------------|
+| **Himal Ride** (User & Driver) | Ride-sharing | Real-time maps, geolocation, live ride tracking |
+| **eNepalShop** (User, Seller, Driver) | E-commerce | Multi-role architecture, Stripe/PayPal payments |
+| **WTS Guru** | Education | Real-time features, clean domain layer |
+| **School & ERP Apps** | Enterprise | Biometric auth, complex business logic, Play Store managed |
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  
-  🔭 I'm currently working on **Flutter Applications**
-  
-  🌱 I'm exploring **Flutter Web and Desktop Development**
-  
-  💬 Ask me about **Flutter, Dart, Mobile Development**
-  
-  ⚡ Fun fact: **I love turning coffee ☕ into code 💻**
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=kabyachalise&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=6AD1E3&icon_color=1A56DB" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabyachalise&theme=tokyonight&hide_border=true&ring=1A56DB&fire=6AD1E3&currStreakLabel=6AD1E3" height="180" alt="Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabyachalise&theme=tokyonight&hide_border=true&layout=compact&title_color=6AD1E3" alt="Top Languages"/>
 </div>
 
 ---
 
-<h3 align="center">Tech Stack 🛠</h3>
-
 <div align="center">
-  
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  
-</div>
 
----
+*Open to freelance projects and collaborations — especially civic tech, productivity tools, and anything that ships to real users.*
 
-<h3 align="center">GitHub Stats 📊</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kabyachalise&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabyachalise&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabyachalise&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-<h3 align="center">Let's Connect! 🤝</h3>
-
-<div align="center">
-  <!-- Add your social media links with badges -->
-<a href="https://www.linkedin.com/in/kabyachalise/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.buymeacoffee.com/kabyachalise">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy me a coffee"/>
 </a>
 
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6AD1E3,100:1A56DB&height=80&section=footer" width="100%"/>
+
 </div>
-
-<div align="center">
-  <h3>Support My Work! ☕</h3>
-  <a href="https://www.buymeacoffee.com/kabyachalise">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee"/>
-  </a>
-</div>
-
-<br/>
-<div style="display: flex; justify-content: center; align-items: center;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
-    <img alt="github-dash" src="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif" />
-  </picture>
-</div>
-
-
-
